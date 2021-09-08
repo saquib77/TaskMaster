@@ -1,7 +1,5 @@
 # Deployed on Heroku
-    ```
-    (https://ftaskmaster.herokuapp.com/)
-    ```
+    https://ftaskmaster.herokuapp.com
 
 # FlaskTaskMaster
 
