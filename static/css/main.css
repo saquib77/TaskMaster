@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+h1 {
+    font-weight: 2rem;
+}
+footer {
+    text-align: center;
+    margin-top: 669px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
